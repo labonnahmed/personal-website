@@ -1,0 +1,171 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.head-area{
+    background-image: url(image/header-bg.png);
+    height: 600px;
+}
+
+.Bio-area{
+    background-image: url(image/biography-bg.png);
+    height: 600px;
+}
+
+.work-area{
+    background-image: url(image/latest-work-bg.png);
+    height: 500px;
+}
+
+.review-area{
+    background-image: url(image/footer-bg.png);  
+    height: 600px;  
+}
+
+.background{
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+}
+
+.work-width{
+    width: 25%;
+    float: left;
+}
+
+.text{
+    padding-top: 3%;
+    margin-top: 2%; 
+    padding-left: 6%;
+    margin-left: 4%;
+}
+
+.image{
+    padding-top: 3%;
+    margin-top: 2%; 
+    padding-left: 3%;
+    margin-left: 2%; 
+}
+
+.bio-image{
+    padding-top: 2%;
+    margin-top: 2%; 
+    padding-left: 5%;
+    margin-left: 2%;
+}
+
+.bio-text{
+    padding-top: 5%;
+    margin-top: 2%; 
+    padding-left: 2%;
+    margin-left: 1%;
+}
+
+p{
+    color: dimgray;
+    text-align: justify;
+}
+
+h1{
+    color: #e74170;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.h2-center{
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+.h2-down{
+    position: relative;
+    top: 47px;
+}
+
+h3{
+    font-size: 32px;
+    text-align: center;
+}
+
+h4{
+  text-align: center; 
+  position: relative;
+  top: 25px;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+    color: #888A8C;
+}
+
+#p-center{
+    text-align: center;
+    font-size: 14px;
+    color: #343434;
+    font-weight: bold;
+}
+
+#head-img{
+    width: 450px;
+}
+
+#bio-img{
+    width: 400px;
+    position: relative; 
+    left: 50px;
+
+}
+
+.button-link{
+    background-image: linear-gradient(45deg, #EE6DA5, #ED4B72);
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#contact-link{
+    position: relative;
+    left: 410px;
+    top: 40px;
+}
+
+.work-sample{
+    padding-top: 50px;
+    padding-left: 30px;
+    margin-left: 20px;    
+
+}
+
+#first-one{
+    padding-left: 100px;   
+}
+
+#conatct-side{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    top: 50px;
+
+    
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
